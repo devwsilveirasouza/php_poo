@@ -1,0 +1,14 @@
+{
+    "name": "nodestudio/composer",
+    "description": "Teste composer",
+    "require": {
+        "dompdf/dompdf": "^2.0",
+        "pagseguro/pagseguro-php-sdk": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "Wellington S. Souza",
+            "email": "dev.wsilveirasouza@gmail.com"
+        }
+    ]
+}
